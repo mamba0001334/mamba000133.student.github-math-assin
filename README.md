@@ -21,7 +21,7 @@
 </body>
 <h3>Multiple choice</h3>
 <p>
-    <b>43+58=?</b>
+    <b>43+58=</b>
 </p>
 <fieldset>
     <form>
@@ -32,5 +32,28 @@
         </select>
     </form>
 </fieldset>
-
+<p>
+    <b>17-38=</b>
+</p>
+<fieldset>
+    <form>
+        <select>
+            <option>21</option>
+            <option selected>-21</option>
+            <option>27</option>
+        </select>
+    </form>
+</fieldset>
+<p>
+    <b>32x5=</b>
+</p>
+<fieldset>
+    <form>
+        <select>
+            <option selected>160</option>
+            <option>175</option>
+            <option>165</option>
+        </select>
+    </form>
+</fieldset>
 
