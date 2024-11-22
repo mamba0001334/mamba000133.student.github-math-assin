@@ -56,7 +56,7 @@
         </select>
     </form>
 </fieldset>
-<!--end of mulipule choice--!>
+<!--end of mulipule choice-->
 <h3>Word Promblem</h3>
 <p>
     <b>Max has 36 apples and he eat 16 apples.How many apples does max have left? </b>
@@ -67,7 +67,8 @@
         </textarea>
     </form>
 </fieldset>
-<!--end of test--!>
-<form>
-    <button type="submit"></button>
+<!-- Submit Button -->
+<button type="submit">Submit</button>
 </form>
+
+<!-- End of Math Test -->
