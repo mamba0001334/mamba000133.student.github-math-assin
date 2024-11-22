@@ -12,13 +12,11 @@
 </html>
 <body>
     <fieldset>
-    <legend>
       <form>
          Username</br>
          <input type="text">
       </br>
       </form>
-    </legend>
     </fieldset>
 </body>
 <h3>Multiple choice</h3>
